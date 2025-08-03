@@ -8,3 +8,6 @@ GEMINI_KEY4=key
 GEMINI_KEY5=key
 
 Ganti "key" dengan APIKEY mu
+
+install module nya gunakan command:
+pip install -r requirements.txt
